@@ -1,5 +1,16 @@
 {
+  "name": "FCC_BarChart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "ccllanos",
+  "license": "ISC",
   "devDependencies": {
     "gh-pages": "^6.0.0"
+  },
+  "homepage": "https://ccllanos.github.io/FCC_BarChart",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
   }
 }
